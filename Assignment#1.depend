@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554895893 source:b:\fci\level 2\2nd term\files\assignments\assignment#1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
